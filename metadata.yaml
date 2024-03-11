@@ -1,0 +1,36 @@
+_repo: Through-by-daylight-b-Or-the-young-engineer-of-the-Lake-Shore-Railroad_73134
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia:
+    - https://en.wikipedia.org/wiki/William_Taylor_Adams
+    - http://www.gutenberg.org/ebooks/author/5655
+description: ''
+gutenberg_issued: '2024-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73134'
+language: en
+pgterms:marc904: https://archive.org/details/throughbydayligh00opti/
+pgterms:marc905: 20231112102132optic
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Terry Jeffress and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aBoston :$bLee and Shepard, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Through by daylight : $b Or, the young engineer of the Lake Shore Railroad'
+url: http://www.gutenberg.org/ebooks/73134
