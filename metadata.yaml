@@ -1,5 +1,8 @@
 _repo: Through-by-daylight-b-Or-the-young-engineer-of-the-Lake-Shore-Railroad_73134
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73134-h/images/cover.jpg
 creator:
   author:
     agent_name: Optic, Oliver
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/William_Taylor_Adams
     - http://www.gutenberg.org/ebooks/author/5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73134#Through-by-daylight-b-Or-the-young-engineer-of-the-Lake-Shore-Railroad
 gutenberg_issued: '2024-03-10'
 gutenberg_type: Text
 identifiers:
